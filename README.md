@@ -1,0 +1,2 @@
+# One-stock-system
+A good example of a one-stock system could be a lake with a single river that sources it and a single outflow river that goes to the sea. The stock is represented by the lake, the inflow river provides water to the lake, and the outflow river allows pulls the water out of the lake. The source river might have a particularly large flow (for example due to rain, or a greater quantity of ice melting at the source) causing a higher level of water in the lake and, as we have seen, also increasing the flow of dispersion out to sea. 
